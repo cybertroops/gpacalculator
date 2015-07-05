@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPA Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="credits">
+        <item>Credits</item>
+        <item>Credit 1</item>
+        <item>Credit 2</item>
+        <item>Credit 3</item>
+        <item>Credit 4</item>
+        <item>Credit 5</item>
+    </string-array>
+    <string-array name="grades">
+        <item>Grades</item>
+        <item>Grade A+</item>
+        <item>Grade A</item>
+        <item>Grade B+</item>
+        <item>Grade B</item>
+        <item>Grade C+</item>
+    </string-array>
+
+</resources>
